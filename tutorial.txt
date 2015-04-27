@@ -1,0 +1,140 @@
+******************************************
+*** Slider Tutorial and Reference File ***
+******************************************
+
+-The objective of the game is to move your ball
+ into the goal.
+
+-Movement consists of the four 
+ directions: north, south, east, and west.
+
+-When you move, your ball will roll until it
+ hits a non-empty tile, typically a wall.
+
+-Each map is limited to 40 spaces wide by 20
+ spaces high, but the play area might be smaller.
+
+-In the main menu, you have the option of starting
+ a new game at level 0 or level 1, or entering in
+ a password to jump to a specific level.
+
+-Reaching the goal takes you to the next level
+ and prints a password to the screen for that level.
+
+-The folder for this game should include this tutorial,
+ the program's code and executable, a solution file,
+ and each individual map and a map template so you can
+ make you own!
+
+
+--------------------------------------------
+
+O = You. Each time you move, this symbol will continue in
+     the same direction until it hits something.
+
+| = Side walls of the map.
+
+- = Top and bottom walls of the map.
+
+* = The goal. Your objective is to move your ball onto
+     the spot where this is in order to progress in the game.
+
++ = Spikes. Touching these from any side will kill you
+     and will reset the map.
+
+NOTE: Filled in squares are boxes, which act like walls from
+      all directions. Notepad does not use the symbol so I
+      cannot show you here but it looks like a box (b).
+
+--------------------------------------------
+
+/ = Bumper (NW-SE). Running into them from the south will deflect
+     your path to the east and vice versa, and running into
+     them from the north will deflect your path to the west
+     and vice versa.
+
+\ = Bumper (NE-SW). Running into them from the south will deflect
+     your path to the west and vice versa, and running into
+     them from the north will deflect your path to the east
+     and vice versa.
+
+--------------------------------------------
+
+V = Move tile (down). Running into this tile forces you down
+     regardless of which direction you ran into it from.
+
+< = Move tile (left). Running into this tile forces you left
+     regardless of which direction you ran into it from.
+
+> = Move tile (right). Running into this tile forces you right
+     regardless of which direction you ran into it from.
+
+^ = Move tile (up). Running into this tile forces you up
+     regardless of which direction you ran into it from.
+
+NOTE: These are not the same as in game because notepad does
+      not use the symbols for them. They do look similar however.
+
+--------------------------------------------
+
+@ = Teleport. Running into this from any direction takes you to
+     the only other teleport on the map and continues you in your
+     original direction.
+
+H = Move-through gate (vertical). Running into them from the sides
+     will stop you like a wall, but moving into them from the top or
+     bottom will allow you to continue normally.
+
+I = Move-through gate (horizontal). Running into them from the top
+     or bottom will stop you like a wall, but moving into them from
+     the sides will allow you to continue normally.
+
+# = Net. Running into it will stop you on it. You can then move from
+     its location. The net will disappear after use.
+
+NOTE: You can cause an infinite loop by allowing the player into a
+      teleporter that sends them into another teleporter. Test your
+      maps to make sure this is not ever possible.
+
+--------------------------------------------
+
+s = Switch. Step on these to remove all barriers from the map. You can
+     then move from its location.
+
+X = Barrier. These act like boxes and can be removed by stepping
+     on a switch.
+
+NOTE: The symbol for the switch is actually more like a gear; it
+      is a small circle with six spikes.
+
+--------------------------------------------
+
+
+ * Level 0 *  (12345)
+
+Move to the goal by going down and then right!
+
+.----------------------------------------.
+|Ob                                      |
+|                                        |
+|                                        |
+|                                        |
+|                                        |
+|                                        |
+|                                        |
+|                                        |
+|                                        |
+|                                        |
+|                                        |
+|                                        |
+|                                        |
+|                                        |
+|                                        |
+|                                        |
+|                                        |
+|                                        |
+|                                        |
+|                             *          |
+.----------------------------------------.
+
+SOLUTION: Down, Right

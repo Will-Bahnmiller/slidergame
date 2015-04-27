@@ -1,0 +1,26 @@
+ * Level 3 * (13370) | Bumpers will send you flying.
+
+.----------------------------------------.
+|                                  b/    |
+| bb       +b            b               |
+| b                   +  \        b      |
+|         b      b                    +  |
+|   bb                   \  \            |
+|  +b                     bb             |
+|              +        b    b           |
+|      /b\              +    +           |
+|      b b  b            b  b/    +      |
+|      \b/               b               |
+|b                                   b   |
+|+  /                   /b  +            |
+| bb                    bO  b+          /|
+|  b           b            +           b|
+|   \                                   \|
+|                        \/           +  |
+|                        /\            b |
+| b                        b           + |
+|  +           b   b                   b |
+|        /b\                           b*|
+.----------------------------------------.
+
+SOLUTION: Right, Up, Left, Up, Down, Right, Down

@@ -1,0 +1,28 @@
+ * Level 4 * (05649) | Intro to gates and nets.
+
+.----------------------------------------.
+|/   #      b  * b   b   bb    b        \|
+|           b    H O I        /          |
+|        H /+Hbbbbbbb+\      b       +   |
+|       /  +/        \+    #        H    |
+|      b                             b+  |
+|       b    H  bb   +             bb/   |
+| # +    \       I              #      HH|
+|b        b      bb       +++       / +  |
+|   b                      +    b        |
+|+Hb+b b                        #        |
+|   b        H                           |
+|                                        |
+| \    H    \  #b          H I           |
+|            ###                         |
+|     \ b                               #|
+|      bb       +        b  b /          |
+|            +            b  b           |
+|    +                   / b  b          |
+|                                        |
+|\           \                          /|
+.----------------------------------------.
+
+SOLUTION: Right, Left, Down, Right, Down, Right, Up, Left,
+          Down, Left, Left, Left, Right, Down, Down, Up,
+	  Right, Down, Down, Left, Left, Up, Right
