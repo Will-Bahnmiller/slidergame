@@ -1,0 +1,26 @@
+ * Level 2 * (22324) | A bit of careful navigation.
+
+.----------------------------------------.
+|+        bbb   bbb                +bbbbb|
+|                                   bbbbb|
+|                                   bbbbb|
+|                         b         bbbbb|
+|                                   bbbbb|
+|                                   bbbbb|
+|bbb                                bbbbb|
+|            /b\       /b\          bbbbb|
+|            bbb   *   bbb          bbbbb|
+|            bbbbbbbbbbbbb    b     bbbbb|
+|            bbb   O   bbb          bbbbb|
+|            \b/       \b/          bbbbb|
+|             b         +           bbbbb|
+|                bbbbb              bbbbb|
+|+b\             bbbbb             +bbbbb|
+|bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb|
+|bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb|
+|bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb|
+|bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb|
+|bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb|
+.----------------------------------------.
+
+SOLUTION: Down, Left, Down, Left, Right, Right, Down, Left, Down

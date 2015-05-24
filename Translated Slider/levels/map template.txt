@@ -1,0 +1,64 @@
+ * Level x * (-----) | YOU CAN TYPE ANYTHING ON THIS LINE.
+
+.----------------------------------------.
+|                                        |
+|                                        |
+|                                        |
+|                                        |
+|                                        |
+|                                        |
+|                                        |
+|                                        |
+|                                        |
+|                                        |
+|                                        |
+|                                        |
+|                                        |
+|                                        |
+|                                        |
+|                                        |
+|                                        |
+|                                        |
+|                                        |
+|                                        |
+.----------------------------------------.
+-Anything after here is not read by the program-
+SOLUTION: _____
+
+
+O = Player start
+
+| = Side walls of the map
+
+- = Top and bottom walls of the map
+
+* = Goal
+
++ = Spikes
+
+b = Box
+
+/ = Bumper (NW-SE)
+
+\ = Bumper (NE-SW)
+
+V = Move tile (down)
+
+< = Move tile (left)
+
+> = Move tile (right)
+
+^ = Move tile (up)
+
+@ = Teleporter (only two units / one pair per map!)
+
+H = Move-through gate (vertical)
+
+I = Move-through gate (horizontal)
+
+# = Net (stops player on this spot; one time use)
+
+s = Switch (all switches on the map will remove all barriers, best to have just one of these)
+
+X = Barrier (boxes that are removed by stepping on a switch)
+

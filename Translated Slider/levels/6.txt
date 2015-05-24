@@ -1,0 +1,27 @@
+ * Level 6 * (35241) | Switches remove barriers.
+
+.----------------------------------------.
+|    b                                  +|
+| s  X                          b        |
+|    b                                   |
+|b bbb                       bXXXb       |
+|                   X        X   X       |
+|         X   O              X * X       |
+|                            X   X       |
+|X                           bXXXb       |
+|                                        |
+|          X                             |
+|X                                       |
+|                  X                     |
+|                                        |
+| X                      X               |
+|             X                          |
+|                                        |
+|                                        |
+|     X                                  |
+|                                        |
+|+                                      +|
+.----------------------------------------.
+
+SOLUTION: Down, Left, Up, Right, Down, Left, Up,
+	  Right, Down

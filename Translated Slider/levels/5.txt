@@ -1,0 +1,28 @@
+ * Level 5 * (55555) | Getting pushed around.
+
+.----------------------------------------.
+|bbbbbbbbbb                        >  bbb|
+|bbbbbbbbb                ^           bOb|
+|bbbbbbbb                <*>    ^b   ^   |
+|bbbbbbb                  V       b    < |
+|bbbbbb                                  |
+|bbbbb              V                    |
+|bbbb                                    |
+|bbb                               >     |
+|bb                                      |
+|b         >                            b|
+|b         <                             |
+|bb                                      |
+|bbb                                     |
+|bbbb                                    |
+|bbbbb                                 < |
+|bbbbbb                                  |
+|bbbbbbb                               V |
+|bbbbbbbb          bbb                   |
+|bbbbbbbbb                            b*b|
+|bbbbbbbbbb         +                 bbb|
+.----------------------------------------.
+
+SOLUTION: Down, Down, Down, Left, Down, Right,
+	  Up, Left, Up, Right, Down, Up, Right,
+	  Right

@@ -1,0 +1,29 @@
+ * Level 8 * (67656) | Using what you've learned.
+
+.----------------------------------------.
+|   X   +           \b                 b+|
+| * X O   /b         b\                  |
+|   X              +                  /b |
+|XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX |
+|b@                                      |
+|bbb                                  bbb|
+|                                      @b|
+| XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX|
+| #                                   +  |
+|                   #      b          +  |
+| b                       #       #   +  |
+|        /b\               b             |
+|XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX |
+|   V           < V        <         V<  |
+|   <+        < ^  <      b          <   |
+|   ^    <    ^   <^       <          ^  |
+| XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX|
+|                                        |
+|\                                     s |
+|+                                       |
+.----------------------------------------.
+
+SOLUTION: Right, Right, Right, Down, Down, Left,
+	  Down, Right, Left, Down, Right, Down,
+	  Right, Up, Right, Down, Right, Down,
+	  Left, Down, Down, Up

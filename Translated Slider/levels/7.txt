@@ -1,0 +1,28 @@
+ * Level 7 * (84925) | Teleporters maintain momentum
+
+.----------------------------------------.
+|++             b* +bb b                \|
+|+/                 bb                   |
+|  O             @  bb  @                |
+|                   bb  X               X|
+|                   bb                   |
+|                   bb                   |
+|                   bb                   |
+|                   bb                   |
+|                   bb                   |
+|  b                bb                   |
+|                X  bb                   |
+|                   bb                   |
+|                   bb                   |
+|                   bb    b              |
+|                   bb                  b|
+|                   bb                   |
+|                   bb                   |
+|    s            b bb                   |
+| b             /b  bb                  +|
+|   b              +bb b               ++|
+.----------------------------------------.
+
+SOLUTION: Right, Up, Down, Left, Down, Right,
+	  Left, Right, Right, Up, Right, Left,
+	  Down, Left, Up

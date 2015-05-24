@@ -1,0 +1,30 @@
+ * Level 9 * (73921) | The final level.
+
+.----------------------------------------.
+| V    V  >  V  <  +bb         +     bbbb|
+|    >         ^    bb /          <    Ob|
+|^ <  + V  ^       ^bb                  b|
+|>       V       ^    #\ @ +           #b|
+|   >        V ^    bb                  \|
+|  V  V    >      V bb++++    b          |
+|      >        >   bb                 / |
+|  +  <     V >    /bb\                b |
+| <       <     ^ /bbbb\                 |
+|bbbbbbbb  bbbbbbbbb**bbbbbbbbb  bbbbbbbb|
+|bbbbbbbb  bbbbbbbbb**bbbbbbbbb  bbbbbbbb|
+|+       #        \bbbb/    V +  +   /   |
+|                  \bb/        ++        |
+|            +      bb               ^   |
+|         X         bb b            <#>  |
+| b                 bb                   |
+| X   >               # @  +             |
+|        b          bb                bbb|
+| s#              X bb      >  >  >   X*b|
+|b\                +bb                bbb|
+.----------------------------------------.
+
+SOLUTION: Down, Down, Down, Down, Right, Up,
+	  Up, Left, Left, Left, Up, Right,
+	  Right, Left, Up, Left, Down, Left,
+	  Up, Right, Down, Right, Up, Left,
+	  Up, Right

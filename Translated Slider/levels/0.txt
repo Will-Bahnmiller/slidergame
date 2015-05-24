@@ -1,0 +1,26 @@
+ * Level 0 * (12345) | Move to the goal by going down and then right!
+
+.----------------------------------------.
+|Ob                                      |
+| b                                      |
+|                                        |
+|             b                          |
+|             b                          |
+|             b                          |
+|             b                          |
+|           bbbbb                        |
+|            bbb                         |
+|             b                          |
+|                                        |
+|                                        |
+|                                        |
+|                   b                    |
+|                   bb                   |
+|              bbbbbbbb                  |
+|                   bb                   |
+|                   b                    |
+|                            bbb         |
+|                             *b         |
+.----------------------------------------.
+
+SOLUTION: Down, Right
